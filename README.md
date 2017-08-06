@@ -22,6 +22,11 @@
 - [Zen To Done (ZTD): The Simple Productivity System : zen habits](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/)
 - [How to do a Weekly Review in Under an Hour : zen habits](https://zenhabits.net/how-to-do-weekly-review-in-under-hour/)
 - [Optimize Your Productivity with Daily, Weekly Routines : zen habits](https://zenhabits.net/optimize-your-productivity-with-daily-weekly-routines/)
+- [Inversion and The Power of Avoiding Stupidity](https://www.farnamstreetblog.com/2013/10/inversion/)
+- [Avoiding Stupidity is Easier than Seeking Brilliance](https://www.farnamstreetblog.com/2014/06/avoiding-stupidity/)
+- [Falsification: How to Destroy Incorrect Ideas](https://www.farnamstreetblog.com/2014/02/peter-cathcart-wason-falsification/)
+- [Understanding your Circle of Competence: How Warren Buffett Avoids Problems](https://www.farnamstreetblog.com/2013/12/mental-model-circle-of-competence/)
+- [Mental Model: Occam’s Razor](https://www.farnamstreetblog.com/2017/05/mental-model-occams-razor/)
 
 ## Blogs
 
