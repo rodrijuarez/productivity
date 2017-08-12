@@ -48,3 +48,4 @@
 - [Ego Is The Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1501022326&sr=1-1&keywords=the+pragmatic+programmer)
 - [Zen To Done: The Ultimate Simple Productivity System](https://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/ref=sr_1_1?ie=UTF8&qid=1501022298&sr=8-1&keywords=zen+to+done)
+- [The Meditations of Marcus Aurelius](https://www.amazon.com/gp/product/B0192TVZ3A/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0192TVZ3A&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
