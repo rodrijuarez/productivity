@@ -27,6 +27,8 @@
 - [Falsification: How to Destroy Incorrect Ideas](https://www.farnamstreetblog.com/2014/02/peter-cathcart-wason-falsification/)
 - [Understanding your Circle of Competence: How Warren Buffett Avoids Problems](https://www.farnamstreetblog.com/2013/12/mental-model-circle-of-competence/)
 - [Mental Model: Occam’s Razor](https://www.farnamstreetblog.com/2017/05/mental-model-occams-razor/)
+- [Mental Model: Hanlon’s Razor](https://www.farnamstreetblog.com/2017/04/mental-model-hanlons-razor/)
+- [Second-Order Thinking: What Smart People Use to Outperform](https://www.farnamstreetblog.com/2016/04/second-level-thinking/)
 
 ## Blogs
 
