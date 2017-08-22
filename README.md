@@ -43,6 +43,7 @@
 - [Bear - Writing App](http://www.bear-writer.com/)
 - [Ulysses - Writing App](https://www.ulyssesapp.com/)
 - [Fantastical 2](https://flexibits.com/fantastical)
+- [Alfred](https://www.alfredapp.com/)
 
 ## Books
 
