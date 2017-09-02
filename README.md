@@ -14,6 +14,7 @@
 - [Blogs](#blogs)
 - [Resources](#resources)
 - [Books](#books)
+- [Talks](#talks)
 
 ---
 
@@ -53,3 +54,7 @@
 - [Zen To Done: The Ultimate Simple Productivity System](https://www.amazon.com/Zen-Done-Ultimate-Simple-Productivity-ebook/dp/B001970HQU/ref=sr_1_1?ie=UTF8&qid=1501022298&sr=8-1&keywords=zen+to+done)
 - [The Meditations of Marcus Aurelius](https://www.amazon.com/gp/product/B0192TVZ3A/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0192TVZ3A&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 - [Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving-ebook/dp/B0070XF474/ref=sr_1_1?ie=UTF8&qid=1504128936&sr=8-1&keywords=search+inside+yourself)
+
+## Talks
+
+- [Designing for Business Evolution](https://vimeo.com/channels/1270971/225997628)
